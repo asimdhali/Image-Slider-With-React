@@ -1,5 +1,3 @@
-// https://www.youtube.com/watch?v=SK9AlIbexOE&ab_channel=MonsterlessonsAcademy
-// https://github.com/monsterlessonsacademy/monsterlessonsacademy/tree/221-react-image-slider
 
 import ImageSlider from "./Components/ImageSlider";
 
